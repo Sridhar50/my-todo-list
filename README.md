@@ -1,8 +1,9 @@
-#TODO List
+TODO List
 
 An application to manage daily activities
 
-##Features
+Features
+
 List of daily tasks
 
 
